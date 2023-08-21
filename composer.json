@@ -1,0 +1,17 @@
+{
+    "name": "adex/barcode",
+    "description": "\"program barcode\"",
+    "autoload": {
+        "psr-4": {
+            "Adex\\Barcode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "\"adex ganteng\""
+        }
+    ],
+    "require": {
+        "picqer/php-barcode-generator": "^2.3"
+    }
+}

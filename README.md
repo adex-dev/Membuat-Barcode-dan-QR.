@@ -4,8 +4,8 @@ This program is made with native PHP version 8. This program is for making QR an
 
 ## Pluggin
 
--phpqrcode
--picqer/php-barcode-generator
+- phpqrcode
+- picqer/php-barcode-generator
 
 ## instalasi
 - if you haven't installed composer for your operating system. Please download at https://getcomposer.org/
